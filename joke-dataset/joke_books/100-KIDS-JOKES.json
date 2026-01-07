@@ -1,346 +1,759 @@
 [
   {
     "Question": "Why did the computer go to the doctor?",
-    "Answer": "It had a blue tooth."
+    "Answer": "It had a blue tooth.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "home",
+      "school"
+    ]
   },
   {
     "Question": "Why can’t your nose be 12 inches long?",
-    "Answer": "Because then it would be a foot."
+    "Answer": "Because then it would be a foot.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "How do you get a tissue to dance?",
-    "Answer": "You put a little boogie in it."
+    "Answer": "You put a little boogie in it.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "Why did they quit giving tests at the zoo?",
-    "Answer": "Because it was full of cheetahs."
+    "Answer": "Because it was full of cheetahs.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "Why is a bad joke like a pencil?",
-    "Answer": "Because it has no point."
+    "Answer": "Because it has no point.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "Where do polar bears keep their money?",
-    "Answer": "A snow bank."
+    "Answer": "A snow bank.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "home",
+      "vacation"
+    ]
   },
   {
     "Question": "What room can no one enter?",
-    "Answer": "A mushroom."
+    "Answer": "A mushroom.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "What kind of key can never unlock a door?",
-    "Answer": "A monkey."
+    "Answer": "A monkey.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "What has four wheels and flies?",
-    "Answer": "A garbage truck."
+    "Answer": "A garbage truck.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "home",
+      "school"
+    ]
   },
   {
     "Question": "Why do graveyards have a fence around them?",
-    "Answer": "Because people are dying to get in."
+    "Answer": "Because people are dying to get in.",
+    "Age Group": ">12",
+    "Scenario": [
+      "home",
+      "party"
+    ]
   },
   {
     "Question": "What did the cheerleader say to the ghost?",
-    "Answer": "Show your spirit."
+    "Answer": "Show your spirit.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "party"
+    ]
   },
   {
     "Question": "What did one eye say to the other?",
-    "Answer": "Between you and me something smells."
+    "Answer": "Between you and me something smells.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "What do you call fake noodles?",
-    "Answer": "Im-pasta."
+    "Answer": "Im-pasta.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "How does the ocean say hello?",
-    "Answer": "It waves."
+    "Answer": "It waves.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "vacation",
+      "home"
+    ]
   },
   {
     "Question": "What do you call cheese that is not yours?",
-    "Answer": "Nacho cheese."
+    "Answer": "Nacho cheese.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "What does a nosey pepper do?",
-    "Answer": "Gets jalapeno your business."
+    "Answer": "Gets jalapeno your business.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "What do you call a pig that knows karate?",
-    "Answer": "Pork Chop."
+    "Answer": "Pork Chop.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "Why can’t you give Elsa a balloon?",
-    "Answer": "Because she will let it go."
+    "Answer": "Because she will let it go.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "What is the smartest kind of bee?",
-    "Answer": "A spelling bee."
+    "Answer": "A spelling bee.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school"
+    ]
   },
   {
     "Question": "Why do bees have sticky hair?",
-    "Answer": "They use a honey comb."
+    "Answer": "They use a honey comb.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "What do you get when you cross an elephant and a potato?",
-    "Answer": "Mashed potatoes."
+    "Answer": "Mashed potatoes.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "What do you call an old snowman?",
-    "Answer": "Water."
+    "Answer": "Water.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "Why is a baseball stadium always cool?",
-    "Answer": "It is full of fans."
+    "Answer": "It is full of fans.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "home",
+      "party"
+    ]
   },
   {
     "Question": "Why did Santa go to music school?",
-    "Answer": "So he could improve his wrapping skills."
+    "Answer": "So he could improve his wrapping skills.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "home",
+      "party"
+    ]
   },
   {
     "Question": "Why couldn’t the pirate learn the alphabet?",
-    "Answer": "Because he was always lost at C."
+    "Answer": "Because he was always lost at C.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "What did the man say when he walked into a bar?",
-    "Answer": "Ouch!"
+    "Answer": "Ouch!",
+    "Age Group": "5-8",
+    "Scenario": [
+      "home",
+      "party"
+    ]
   },
   {
     "Question": "What are the strongest days of the week?",
-    "Answer": "Saturday and Sunday. Every other day is a weekday."
+    "Answer": "Saturday and Sunday. Every other day is a weekday.",
+    "Age Group": "8-12",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "What goes tick-tock and woof-woof?",
-    "Answer": "A watchdog."
-  },
-  {
-    "Question": "What do you call a monkey that loves potato chips?",
-    "Answer": "A chipmonk."
+    "Answer": "A watchdog.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "home",
+      "school"
+    ]
   },
   {
     "Question": "What did the girl ocean say to the boy ocean when he asked her out on a date?",
-    "Answer": "Shore."
+    "Answer": "Shore.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "party"
+    ]
   },
   {
     "Question": "Why do shoemakers go to heaven?",
-    "Answer": "Because they have good soles."
+    "Answer": "Because they have good soles.",
+    "Age Group": "8-12",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "What did one plate say to another plate?",
-    "Answer": "Dinner is on me."
+    "Answer": "Dinner is on me.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "home",
+      "party"
+    ]
   },
   {
     "Question": "Why did they bury the battery?",
-    "Answer": "Because it was dead."
+    "Answer": "Because it was dead.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "What time is it when an elephant sits on your fence?",
-    "Answer": "Time to get a new fence."
+    "Answer": "Time to get a new fence.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "Why don’t dinosaurs eat clowns?",
-    "Answer": "Because they taste funny."
+    "Answer": "Because they taste funny.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "Why did the girl throw a stick of butter?",
-    "Answer": "She wanted to see a butter fly."
+    "Answer": "She wanted to see a butter fly.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "What did the finger say to thumb?",
-    "Answer": "I’m in glove with you."
+    "Answer": "I’m in glove with you.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "What has only one eye, but still can’t see?",
-    "Answer": "A needle."
+    "Answer": "A needle.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "Why did the boy bring a ladder to school?",
-    "Answer": "He wanted to go to high school."
+    "Answer": "He wanted to go to high school.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school"
+    ]
   },
   {
     "Question": "What do you call a cow with three legs?",
-    "Answer": "Lean beef."
+    "Answer": "Lean beef.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "Want me to tell you a joke about pizza?",
-    "Answer": "Sorry, it is too cheesy."
+    "Answer": "Sorry, it is too cheesy.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "Why was the broom late?",
-    "Answer": "It overswept."
+    "Answer": "It overswept.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "Why did the golfer wear two pairs of pants?",
-    "Answer": "In case he got a hole in one."
+    "Answer": "In case he got a hole in one.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "Why did Mozart sell his chickens?",
-    "Answer": "They kept saying, 'Bach, Bach, Bach.'"
+    "Answer": "They kept saying, 'Bach, Bach, Bach.'",
+    "Age Group": "8-12",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "What word starts with E and has only one letter in it?",
-    "Answer": "Envelope."
+    "Answer": "Envelope.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "Why is dark spelled with a K and not a C?",
-    "Answer": "Because you can’t see in the dark."
+    "Answer": "Because you can’t see in the dark.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "How many tickles does it take to make an octopus laugh?",
-    "Answer": "Ten tickles."
+    "Answer": "Ten tickles.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "Why did the kid throw the clock out the window?",
-    "Answer": "He wanted to see time fly."
+    "Answer": "He wanted to see time fly.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "Why did the banana go to the doctor?",
-    "Answer": "It wasn’t peeling well."
+    "Answer": "It wasn’t peeling well.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "home",
+      "school"
+    ]
   },
   {
     "Question": "What kind of tree can fit into your hand?",
-    "Answer": "A palm tree!"
+    "Answer": "A palm tree!",
+    "Age Group": "5-8",
+    "Scenario": [
+      "home",
+      "school"
+    ]
   },
   {
     "Question": "How can you tell that a tree is a dogwood tree?",
-    "Answer": "By its bark!"
+    "Answer": "By its bark!",
+    "Age Group": "5-8",
+    "Scenario": [
+      "home",
+      "school"
+    ]
   },
   {
     "Question": "What do you call a bear with no teeth?",
-    "Answer": "A Gummy Bear."
+    "Answer": "A Gummy Bear.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "home",
+      "school"
+    ]
   },
   {
     "Question": "Why did the skeleton go to the dance alone?",
-    "Answer": "He had no body to go with him!"
+    "Answer": "He had no body to go with him!",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "party"
+    ]
   },
   {
     "Question": "Why did the students eat their homework?",
-    "Answer": "Because the teacher told them that it was a piece of cake."
+    "Answer": "Because the teacher told them that it was a piece of cake.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school"
+    ]
   },
   {
     "Question": "What did the stamp say to the envelope?",
-    "Answer": "Stick with me, and we will go places!"
+    "Answer": "Stick with me, and we will go places!",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "Why wouldn’t the teacher bring the class to the pumpkin patch?",
-    "Answer": "It was in a seedy part of town."
+    "Answer": "It was in a seedy part of town.",
+    "Age Group": "8-12",
+    "Scenario": [
+      "school"
+    ]
   },
   {
     "Question": "What’s another name for a clever duck?",
-    "Answer": "Wise quacker!"
+    "Answer": "Wise quacker!",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "Why did the man run around his bed?",
-    "Answer": "To catch up on his sleep."
+    "Answer": "To catch up on his sleep.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "home"
+    ]
   },
   {
     "Question": "Why didn’t the baby skeleton cross the road alone?",
-    "Answer": "Because his mummy was not there!"
+    "Answer": "Because his mummy was not there!",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "What do you call a cow with no legs?",
-    "Answer": "Ground beef."
+    "Answer": "Ground beef.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "What did the buffalo say to his kid when he dropped him off for school?",
-    "Answer": "Bison."
+    "Answer": "Bison.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school"
+    ]
   },
   {
     "Question": "What nails do carpenters hate hammering?",
-    "Answer": "Fingernails."
+    "Answer": "Fingernails.",
+    "Age Group": "8-12",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "Why do seagulls fly over the sea?",
-    "Answer": "Because if they flew over the bay they’d be bagels."
+    "Answer": "Because if they flew over the bay they’d be bagels.",
+    "Age Group": "8-12",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "What do you call a pig that knows karate?",
-    "Answer": "A pork chop!"
+    "Answer": "A pork chop!",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "Why are ghosts bad liars?",
-    "Answer": "Because you can see right through them!"
+    "Answer": "Because you can see right through them!",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "What animal needs to wear a wig?",
-    "Answer": "A bald eagle!"
+    "Answer": "A bald eagle!",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "How do all the oceans say hello to each other?",
-    "Answer": "They wave!"
+    "Answer": "They wave!",
+    "Age Group": "5-8",
+    "Scenario": [
+      "vacation",
+      "home"
+    ]
   },
   {
     "Question": "What did one wall say to the other wall?",
-    "Answer": "I’ll meet you at the corner!"
+    "Answer": "I’ll meet you at the corner!",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "What do you call an alligator in a vest?",
-    "Answer": "An investigator!"
+    "Answer": "An investigator!",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "What do you get when you cross a snowman with a vampire?",
-    "Answer": "Frostbite!"
+    "Answer": "Frostbite!",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "What do you call a sleeping bull?",
-    "Answer": "A bulldozer!"
+    "Answer": "A bulldozer!",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "What can you catch but not throw?",
-    "Answer": "A cold!"
+    "Answer": "A cold!",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "What has hands but can’t clap?",
-    "Answer": "A clock!"
+    "Answer": "A clock!",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "What do you call a dog that can tell time?",
-    "Answer": "A watch dog!"
+    "Answer": "A watch dog!",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "What falls in winter but never gets hurt?",
-    "Answer": "The snow!"
+    "Answer": "The snow!",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "Why did the teacher put on sunglasses?",
-    "Answer": "Because her students were so bright!"
+    "Answer": "Because her students were so bright!",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school"
+    ]
   },
   {
     "Question": "How did Benjamin Franklin feel when he discovered electricity?",
-    "Answer": "Shocked!"
+    "Answer": "Shocked!",
+    "Age Group": ">12",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "What do you call a flower that runs on electricity?",
-    "Answer": "A power plant!"
+    "Answer": "A power plant!",
+    "Age Group": "8-12",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "Why couldn’t the pony sing in the choir?",
-    "Answer": "Because she was a little horse!"
+    "Answer": "Because she was a little horse!",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "Why did the cookie go to the nurse?",
-    "Answer": "Because he felt crummy!"
+    "Answer": "Because he felt crummy!",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "How do you keep a bull from charging?",
-    "Answer": "Take away its credit card!"
+    "Answer": "Take away its credit card!",
+    "Age Group": ">12",
+    "Scenario": [
+      "home",
+      "party"
+    ]
   },
   {
     "Question": "What is the witch’s favorite school subject?",
-    "Answer": "Spelling!"
+    "Answer": "Spelling!",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school"
+    ]
   },
   {
     "Question": "What has a ton of ears but can’t hear a thing?",
-    "Answer": "A corn field."
+    "Answer": "A corn field.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "What goes up and down but does not move?",
-    "Answer": "Stairs."
+    "Answer": "Stairs.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "What did the traffic light say to the car?",
-    "Answer": "Don’t peek – I’m changing!"
+    "Answer": "Don’t peek – I’m changing!",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   },
   {
     "Question": "Why did the dinosaur cross the road?",
-    "Answer": "It was the chicken’s day off."
+    "Answer": "It was the chicken’s day off.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school",
+      "home"
+    ]
   }
 ]

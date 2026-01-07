@@ -68,14 +68,24 @@ The tool generates JSON files with the following structure:
 [
   {
     "Question": "Why did the chicken cross the road?",
-    "Answer": "To get to the other side!"
+    "Answer": "To get to the other side!",
+    "Age Group": "5-8",
+    "Scenario": ["home", "party"]
   },
   {
     "Question": "What do you call a fake noodle?",
-    "Answer": "An impasta!"
+    "Answer": "An impasta!",
+    "Age Group": "8-12",
+    "Scenario": ["school", "home"]
   }
 ]
 ```
+
+Each joke object contains:
+- **Question**: The question part of the joke
+- **Answer**: The answer/punchline of the joke
+- **Age Group**: One of `"5-8"`, `"8-12"`, or `">12"` - classified based on whether kids in that age group can understand the joke and would not find it too simple or naive
+- **Scenario**: A list containing one or more from `["school", "home", "party", "vacation"]` - scenarios where the joke would be appropriate and relevant
 
 The output file name matches the input:
 - For PDF files: `filename.json`

@@ -3,7 +3,14 @@
 Joke Extraction Tool
 
 Extracts Q&A format jokes from PDF files or folders containing images.
-Uses OpenAI API to intelligently extract jokes and outputs JSON files.
+Uses OpenAI API to intelligently extract jokes with age group classification
+and scenario tags, then outputs JSON files.
+
+Each extracted joke includes:
+- Question: The question part of the joke
+- Answer: The answer/punchline
+- Age Group: One of "5-8", "8-12", or ">12"
+- Scenario: List of one or more from ["school", "home", "party", "vacation"]
 """
 
 import os
@@ -61,24 +68,26 @@ def pdf_to_images(pdf_path: str) -> List[Image.Image]:
         return []
 
 
-def extract_jokes_from_text(text: str, api_key: str) -> List[Dict[str, str]]:
+def extract_jokes_from_text(text: str, api_key: str) -> List[Dict[str, Any]]:
     """Use OpenAI API to extract Q&A jokes from text."""
     client = openai.OpenAI(api_key=api_key)
     
     prompt = """Extract all jokes that are in question and answer format from the following text. 
-For each joke, identify the question and the answer.
+For each joke, identify the question, answer, age group, and scenario.
 
-Return the results as a JSON object with a "jokes" field containing an array of objects, where each object has two fields:
+Return the results as a JSON object with a "jokes" field containing an array of objects, where each object has four fields:
 - "Question": the question part of the joke
 - "Answer": the answer part of the joke
+- "Age Group": one of "5-8", "8-12", or ">12". Choose based on whether kids in that age group can understand the joke and would not find it too simple or naive. Consider the complexity, vocabulary, and concepts used.
+- "Scenario": a list containing one or more from ["school", "home", "party", "vacation"]. Choose scenarios where this joke would be appropriate and relevant.
 
 Only include jokes that are clearly in Q&A format. Skip any other content.
 If there are no Q&A jokes, return {"jokes": []}.
 
 Example format:
 {"jokes": [
-  {"Question": "Why did the chicken cross the road?", "Answer": "To get to the other side!"},
-  {"Question": "What do you call a fake noodle?", "Answer": "An impasta!"}
+  {"Question": "Why did the chicken cross the road?", "Answer": "To get to the other side!", "Age Group": "5-8", "Scenario": ["home", "party"]},
+  {"Question": "What do you call a fake noodle?", "Answer": "An impasta!", "Age Group": "8-12", "Scenario": ["school", "home"]}
 ]}
 
 Text to analyze:
@@ -90,7 +99,7 @@ Text to analyze:
             messages=[
                 {
                     "role": "system",
-                    "content": "You are a helpful assistant that extracts jokes in question-answer format. Always return a valid JSON object with a 'jokes' array field."
+                    "content": "You are a helpful assistant that extracts jokes in question-answer format with age group classification and scenario tags. Always return a valid JSON object with a 'jokes' array field. Each joke must include Question, Answer, Age Group (one of: 5-8, 8-12, >12), and Scenario (list of one or more from: school, home, party, vacation)."
                 },
                 {
                     "role": "user",
@@ -126,26 +135,28 @@ Text to analyze:
         return []
 
 
-def extract_jokes_from_image(image_path: str, api_key: str) -> List[Dict[str, str]]:
+def extract_jokes_from_image(image_path: str, api_key: str) -> List[Dict[str, Any]]:
     """Use OpenAI Vision API to extract Q&A jokes from an image."""
     client = openai.OpenAI(api_key=api_key)
     
     base64_image = encode_image(image_path)
     
     prompt = """Extract all jokes that are in question and answer format from this image. 
-For each joke, identify the question and the answer.
+For each joke, identify the question, answer, age group, and scenario.
 
-Return the results as a JSON object with a "jokes" field containing an array of objects, where each object has two fields:
+Return the results as a JSON object with a "jokes" field containing an array of objects, where each object has four fields:
 - "Question": the question part of the joke
 - "Answer": the answer part of the joke
+- "Age Group": one of "5-8", "8-12", or ">12". Choose based on whether kids in that age group can understand the joke and would not find it too simple or naive. Consider the complexity, vocabulary, and concepts used.
+- "Scenario": a list containing one or more from ["school", "home", "party", "vacation"]. Choose scenarios where this joke would be appropriate and relevant.
 
 Only include jokes that are clearly in Q&A format. Skip any other content.
 If there are no Q&A jokes, return {"jokes": []}.
 
 Example format:
 {"jokes": [
-  {"Question": "Why did the chicken cross the road?", "Answer": "To get to the other side!"},
-  {"Question": "What do you call a fake noodle?", "Answer": "An impasta!"}
+  {"Question": "Why did the chicken cross the road?", "Answer": "To get to the other side!", "Age Group": "5-8", "Scenario": ["home", "party"]},
+  {"Question": "What do you call a fake noodle?", "Answer": "An impasta!", "Age Group": "8-12", "Scenario": ["school", "home"]}
 ]}
 """
     
@@ -155,7 +166,7 @@ Example format:
             messages=[
                 {
                     "role": "system",
-                    "content": "You are a helpful assistant that extracts jokes in question-answer format from images. Always return valid JSON only."
+                    "content": "You are a helpful assistant that extracts jokes in question-answer format from images with age group classification and scenario tags. Always return valid JSON only. Each joke must include Question, Answer, Age Group (one of: 5-8, 8-12, >12), and Scenario (list of one or more from: school, home, party, vacation)."
                 },
                 {
                     "role": "user",
@@ -198,7 +209,7 @@ Example format:
         return []
 
 
-def extract_jokes_from_pdf(pdf_path: str, api_key: str) -> List[Dict[str, str]]:
+def extract_jokes_from_pdf(pdf_path: str, api_key: str) -> List[Dict[str, Any]]:
     """Extract jokes from a PDF file (tries text first, then images)."""
     all_jokes = []
     
@@ -234,7 +245,7 @@ def extract_jokes_from_pdf(pdf_path: str, api_key: str) -> List[Dict[str, str]]:
     return all_jokes
 
 
-def extract_jokes_from_image_folder(folder_path: str, api_key: str) -> List[Dict[str, str]]:
+def extract_jokes_from_image_folder(folder_path: str, api_key: str) -> List[Dict[str, Any]]:
     """Extract jokes from a folder containing images."""
     all_jokes = []
     

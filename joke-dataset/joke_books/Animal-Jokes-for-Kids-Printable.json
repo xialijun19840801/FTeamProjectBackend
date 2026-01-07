@@ -1,62 +1,144 @@
 [
   {
     "Question": "Which animal makes the best pet?",
-    "Answer": "A cat... because it is purr-fect."
+    "Answer": "A cat... because it is purr-fect.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "home",
+      "party"
+    ]
   },
   {
     "Question": "Why are fish so smart?",
-    "Answer": "Because they live in schools."
+    "Answer": "Because they live in schools.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school"
+    ]
   },
   {
     "Question": "What is black and white and red all over?",
-    "Answer": "A sunburnt zebra."
+    "Answer": "A sunburnt zebra.",
+    "Age Group": "8-12",
+    "Scenario": [
+      "home",
+      "party"
+    ]
+  },
+  {
+    "Question": "What is black and white, black and white, black and white?",
+    "Answer": "A penguin rolling down a hill.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "home",
+      "party"
+    ]
   },
   {
     "Question": "What time is it when an elephant sits on your bed?",
-    "Answer": "Time to get a new bed."
+    "Answer": "Time to get a new bed.",
+    "Age Group": "8-12",
+    "Scenario": [
+      "home"
+    ]
   },
   {
     "Question": "What goes tick tock, bow wow, tick tock, bow wow?",
-    "Answer": "A watch dog."
+    "Answer": "A watch dog.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "home",
+      "party"
+    ]
   },
   {
     "Question": "What time is it when a lion walks into a room?",
-    "Answer": "Time to leave."
+    "Answer": "Time to leave.",
+    "Age Group": ">12",
+    "Scenario": [
+      "home",
+      "party"
+    ]
   },
   {
     "Question": "Where do cows go on the weekend?",
-    "Answer": "To the moo-vies."
+    "Answer": "To the moo-vies.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "home",
+      "party"
+    ]
   },
   {
     "Question": "What do you call a dog with a fever?",
-    "Answer": "A hot dog."
+    "Answer": "A hot dog.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "home",
+      "party"
+    ]
   },
   {
     "Question": "What do you call a sleeping bull?",
-    "Answer": "A bulldozer."
+    "Answer": "A bulldozer.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "home",
+      "party"
+    ]
   },
   {
     "Question": "What do you get when you cross a giraffe with a pig?",
-    "Answer": "Bacon and legs."
+    "Answer": "Bacon and legs.",
+    "Age Group": "8-12",
+    "Scenario": [
+      "home",
+      "party"
+    ]
   },
   {
     "Question": "What do you get when you cross a crocodile with a rooster?",
-    "Answer": "A croc-a-doodle-doo."
+    "Answer": "A croc-a-doodle-doo.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "home",
+      "party"
+    ]
   },
   {
     "Question": "Why did the cow cross the road?",
-    "Answer": "To get to the udder side."
+    "Answer": "To get to the udder side.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "home",
+      "party"
+    ]
   },
   {
     "Question": "What game do mice love to play?",
-    "Answer": "Hide and squeak."
+    "Answer": "Hide and squeak.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "home",
+      "party"
+    ]
   },
   {
     "Question": "What do you call an exploding monkey?",
-    "Answer": "A baboom!"
+    "Answer": "A baboom!",
+    "Age Group": "8-12",
+    "Scenario": [
+      "home",
+      "party"
+    ]
   },
   {
     "Question": "Why do sharks swim in salt water?",
-    "Answer": "Because pepper makes them sneeze."
+    "Answer": "Because pepper makes them sneeze.",
+    "Age Group": "8-12",
+    "Scenario": [
+      "home",
+      "party"
+    ]
   }
 ]

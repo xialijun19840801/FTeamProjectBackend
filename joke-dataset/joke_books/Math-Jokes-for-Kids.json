@@ -1,166 +1,315 @@
 [
   {
     "Question": "What can be right, but never wrong?",
-    "Answer": "Angles"
+    "Answer": "Angles",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school"
+    ]
   },
   {
     "Question": "How can you make seven even?",
-    "Answer": "Take away the 's'."
+    "Answer": "Take away the 's'.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school"
+    ]
   },
   {
     "Question": "Which snakes are best at doing sums?",
-    "Answer": "Adders!"
+    "Answer": "Adders!",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school"
+    ]
   },
   {
     "Question": "What did the zero say to the eight?",
-    "Answer": "Nice belt."
+    "Answer": "Nice belt.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school"
+    ]
   },
   {
     "Question": "Who do geometry teachers like to hang out with?",
-    "Answer": "A small circle of friends."
-  },
-  {
-    "Question": "What do you call an empty parrot cage?",
-    "Answer": "Polygon."
+    "Answer": "A small circle of friends.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school"
+    ]
   },
   {
     "Question": "Why can't your nose be twelve inches long?",
-    "Answer": "Because then it would be a foot."
+    "Answer": "Because then it would be a foot.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school"
+    ]
   },
   {
     "Question": "If two is company, and three is a crowd, what are four and five?",
-    "Answer": "Nine!"
+    "Answer": "Nine!",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school"
+    ]
   },
   {
     "Question": "Which sea creature can add up?",
-    "Answer": "An octo-plus!"
+    "Answer": "An octo-plus!",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school"
+    ]
   },
   {
     "Question": "Why can't you trust mathematicians?",
-    "Answer": "Their loyalties are divided."
+    "Answer": "Their loyalties are divided.",
+    "Age Group": "8-12",
+    "Scenario": [
+      "school"
+    ]
   },
   {
     "Question": "Why is six afraid of seven?",
-    "Answer": "Because seven ate nine!"
+    "Answer": "Because seven ate nine!",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school"
+    ]
   },
   {
     "Question": "What do you call a missing octopus?",
-    "Answer": "An octo-gone!"
+    "Answer": "An octo-gone!",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school"
+    ]
   },
   {
     "Question": "What makes arithmetic hard work?",
-    "Answer": "All those numbers you have to carry."
+    "Answer": "All those numbers you have to carry.",
+    "Age Group": "8-12",
+    "Scenario": [
+      "school"
+    ]
   },
   {
     "Question": "Did you hear about the tree growing outside the maths classroom?",
-    "Answer": "It grew square roots."
+    "Answer": "It grew square roots.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school"
+    ]
   },
   {
     "Question": "Which month has 28 days?",
-    "Answer": "All of them!"
+    "Answer": "All of them!",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school"
+    ]
   },
   {
     "Question": "Why was the maths book sad?",
-    "Answer": "Because it had too many problems."
+    "Answer": "Because it had too many problems.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school"
+    ]
   },
   {
     "Question": "How many apples can you put in an empty box?",
-    "Answer": "One. After that, it's not empty any more."
+    "Answer": "One. After that, it's not empty any more.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "home"
+    ]
   },
   {
     "Question": "Who's the queen of the pencil case?",
-    "Answer": "The ruler."
+    "Answer": "The ruler.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school"
+    ]
   },
   {
     "Question": "Why was the obtuse triangle upset?",
-    "Answer": "Because it is never right…"
+    "Answer": "Because it is never right.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school"
+    ]
   },
   {
     "Question": "How do you keep warm in a cold room?",
-    "Answer": "Go into a corner, because it's usually 90 degrees."
+    "Answer": "Go into a corner, because it's usually 90 degrees.",
+    "Age Group": "8-12",
+    "Scenario": [
+      "home"
+    ]
   },
   {
     "Question": "What did the acorn say when it grew up?",
-    "Answer": "Geometry."
-  },
-  {
-    "Question": "What did the Harry Potter say when Hermione reversed the curse?",
-    "Answer": "Hexagon"
+    "Answer": "Geometry.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school"
+    ]
   },
   {
     "Question": "What did hungry piggy bank say?",
-    "Answer": "Adjacent."
+    "Answer": "Adjacent.",
+    "Age Group": "8-12",
+    "Scenario": [
+      "home"
+    ]
   },
   {
     "Question": "If I had six apples in one hand and seven oranges in the other, what would I have?",
-    "Answer": "Big hands!"
+    "Answer": "Big hands!",
+    "Age Group": "5-8",
+    "Scenario": [
+      "home"
+    ]
   },
   {
     "Question": "Where do math teachers go on vacation?",
-    "Answer": "Times Square!"
+    "Answer": "Times Square!",
+    "Age Group": "5-8",
+    "Scenario": [
+      "vacation"
+    ]
   },
   {
     "Question": "What do you call friends who love maths?",
-    "Answer": "Algebros!"
+    "Answer": "Algebros!",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school"
+    ]
   },
   {
     "Question": "What do you get if you divide the circumference of a jack-o-lantern by its diameter?",
-    "Answer": "Pumpkin Pi"
+    "Answer": "Pumpkin Pi.",
+    "Age Group": "8-12",
+    "Scenario": [
+      "school"
+    ]
   },
   {
     "Question": "Are monsters good at maths?",
-    "Answer": "Not unless you Count Dracula!"
+    "Answer": "Not unless you Count Dracula!",
+    "Age Group": "5-8",
+    "Scenario": [
+      "home",
+      "party"
+    ]
   },
   {
     "Question": "Why was the triangle so adorable?",
-    "Answer": "Because it had acute angles!"
+    "Answer": "Because it had acute angles!",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school"
+    ]
   },
   {
     "Question": "Why can you never trust a maths teacher holding graph paper?",
-    "Answer": "They must be plotting something!"
+    "Answer": "They must be plotting something!",
+    "Age Group": ">12",
+    "Scenario": [
+      "school"
+    ]
   },
   {
     "Question": "Why was the equal sign so humble?",
-    "Answer": "Because she knew she wasn't greater than anyone else."
+    "Answer": "Because she knew she wasn't greater than anyone else.",
+    "Age Group": "8-12",
+    "Scenario": [
+      "school"
+    ]
   },
   {
     "Question": "What do you call a number that can't stay in one place?",
-    "Answer": "A Roamin' numeral."
+    "Answer": "A Roamin' numeral.",
+    "Age Group": "8-12",
+    "Scenario": [
+      "school"
+    ]
   },
   {
     "Question": "Why did seven eat nine?",
-    "Answer": "Because you're supposed to eat three squared meals a day."
+    "Answer": "Because you're supposed to eat three squared meals a day.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "home"
+    ]
   },
   {
     "Question": "You know what seems odd to me?",
-    "Answer": "Numbers that can't be divided by two."
+    "Answer": "Numbers that can't be divided by two.",
+    "Age Group": ">12",
+    "Scenario": [
+      "school"
+    ]
   },
   {
     "Question": "Which knight created the round table?",
-    "Answer": "Sir Cumference!"
+    "Answer": "Sir Cumference!",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school"
+    ]
   },
   {
     "Question": "Which king loved fractions?",
-    "Answer": "King Henry the 1/8."
+    "Answer": "King Henry the 1/8.",
+    "Age Group": "8-12",
+    "Scenario": [
+      "school"
+    ]
   },
   {
     "Question": "Why shouldn't you argue with a decimal?",
-    "Answer": "Because decimals always have a good point."
+    "Answer": "Because decimals always have a good point.",
+    "Age Group": "8-12",
+    "Scenario": [
+      "school"
+    ]
   },
   {
     "Question": "What is a bird watcher’s favourite type of maths?",
-    "Answer": "Owl-gebra."
+    "Answer": "Owl-gebra.",
+    "Age Group": "5-8",
+    "Scenario": [
+      "school"
+    ]
   },
   {
     "Question": "Why did the student get upset when her teacher called her average?",
-    "Answer": "Because it was a mean thing to say."
+    "Answer": "Because it was a mean thing to say.",
+    "Age Group": ">12",
+    "Scenario": [
+      "school"
+    ]
   },
   {
     "Question": "Have you heard the latest statistics joke?",
-    "Answer": "Probably."
+    "Answer": "Probably.",
+    "Age Group": ">12",
+    "Scenario": [
+      "school"
+    ]
   },
   {
     "Question": "What did Al Gore play on his guitar?",
-    "Answer": "An algorithm!"
+    "Answer": "An algorithm!",
+    "Age Group": ">12",
+    "Scenario": [
+      "school"
+    ]
   }
 ]
